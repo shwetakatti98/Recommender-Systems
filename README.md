@@ -4,8 +4,8 @@
 The aim of this project is to build a recommender system. A recommender system is used to predict the rating or preference of a given user. For example, recommender systems are widely used to generate playlists on spotify, to recommend movies on netflix, or to recommend potential products to buy on amazon.
 
 There are two ways to implement these recommender systems: 
-• Collaborative Filtering
-• Content-based Filtering
+- Collaborative Filtering
+- Content-based Filtering
 Or, we also use a combination of both of the above filtering techniques.
 
 In this project, we will be exploring Collaborative Filtering methods to build a recommender system for a Synthetic Movie Lens Dataset. This dataset contains 100836 ratings and 3683 tag applications across 9742 movies. The underlying rating matrix in this dataset is a sparse matrix which is a main challenge for designing collaborative filtering models. Collaborative filtering is a method that filters the preference of a given user by collecting preferences or ratings from several other users.
